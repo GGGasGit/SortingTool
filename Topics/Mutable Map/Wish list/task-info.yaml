@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun makeMyWishList(wishList: Map<String, Int>, limit: Int): MutableMap<String, Int> {
+        // write here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20693#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 12 Feb 2023 11:57:39 UTC
+record: -1
